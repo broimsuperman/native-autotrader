@@ -1,4 +1,4 @@
-# Native - The New 2025 Solana Raydium Sniper Bot
+# Native - In Development - Contributions Welcome!
 
 ![Native Banner](readme/native.webp)
 
