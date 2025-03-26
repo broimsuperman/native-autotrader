@@ -8,7 +8,7 @@ A **high-speed, free crypto trading bot** for sniping new Raydium USDC/SOL pools
 
 ## 🚀 Why Choose Native?
 
-The **"New 2025 Solana Raydium Sniper Bot"** stands out from outdated, low-quality imitators. This bot is built with the latest optimizations, ensuring top-tier performance for token sniping.
+Native stands out from outdated, low-quality imitators. This bot is built with the latest optimizations, ensuring top-tier performance for token sniping.
 
 ### 🔥 Key Features
 
@@ -36,7 +36,7 @@ The **"New 2025 Solana Raydium Sniper Bot"** stands out from outdated, low-quali
 
 Suggested ratio: **1:10** → For every **0.1 WSOL/USDC**, keep **1 SOL** in the wallet (e.g., **0.9 SOL / 0.1 WSOL**).
 
-⚠️ **Native boasts a 95%+ Win Rate**, but only invest what you’re willing to lose. Diversify your investments!
+⚠️ **Native boasts a 75%+ Win Rate**, but only invest what you’re willing to lose. Diversify your investments!
 
 ---
 
